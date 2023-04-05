@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AssignmentTrackerPro</string>
+    <string name="name">Name</string>
+    <string name="id">Id</string>
+    <string name="size">Size</string>
+    <string name="status">Status</string>
+    <string name="search" />
+</resources>
